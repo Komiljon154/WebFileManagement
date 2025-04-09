@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-//testslar uygdouwvhevu
+//testslar uygdouwvhevu sswqs
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
